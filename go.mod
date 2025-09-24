@@ -1,4 +1,4 @@
-module github.com/tree-sitter-grammars/tree-sitter-markdown
+module github.com/sylveryte/tree-sitter-markdown
 
 go 1.23
 
